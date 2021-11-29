@@ -15,6 +15,8 @@ int main()
   int g = 0;
   int b = 0;
   int radius = 0;
+  int x1 = 25;
+  int x2 = 30;
   Circle circle1;
   Circle circle2(200,200,30);
   ColorCircle circle3;
